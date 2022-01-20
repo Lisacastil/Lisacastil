@@ -6,5 +6,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-elisa.castilho.marques@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elisa.castilho.marques@gmail.com)](mailto:elisa.castilho.marques@gmail.com)
 
 📚 Estudante na SPTech  
-📚 Estagiária na Vericode  
+💻 Estagiária na Vericode  
 📌 São Paulo - SP  

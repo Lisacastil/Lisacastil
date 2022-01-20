@@ -5,5 +5,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisacastilho/)](https://www.linkedin.com/in/elisacastilho/)
 [![Gmail Badge](https://img.shields.io/badge/-elisa.castilho.marques@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elisa.castilho.marques@gmail.com)](mailto:elisa.castilho.marques@gmail.com)
 
-📚 Estudante na Bandtec 
+📚 Estudante na SPTech
 📌 São Paulo - SP
